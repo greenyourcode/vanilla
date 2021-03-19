@@ -1,0 +1,23 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenyourcode/vanilla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greenyourcode/vanilla/issues"
+  },
+  "homepage": "https://github.com/greenyourcode/vanilla#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
